@@ -1,5 +1,5 @@
 .title {
-  margin-top: 40px;
+  padding-top: 30px;
   text-align: center;
   font-size: 30px;
 }
@@ -11,4 +11,14 @@
 
 .tile img{
   height: 200px;
+  margin: 20px 0;
+}
+
+.container.row {
+  background-color: lightgrey;
+}
+
+.tile p {
+  padding: 0 5px;
+  margin: 5px 0;
 }
