@@ -1,3 +1,23 @@
+/* general */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+/* /general */
+
+/* typo */
+h2 {
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+p {
+  font-weight: 300;
+}
+/* /typo */
+
 .title {
   padding-top: 30px;
   text-align: center;
@@ -9,16 +29,25 @@
   text-align: center;
 }
 
-.tile img{
+.tile img {
   height: 200px;
   margin: 20px 0;
 }
 
 .container.row {
-  background-color: lightgrey;
+  background-color: #F9F9F9;
+  margin-top: 20px;
 }
 
 .tile p {
   padding: 0 5px;
-  margin: 5px 0;
+  margin: 10px 0;
+}
+
+.icon-round{
+  border: 1px solid #438BC9;
+  border-radius: 50%;
+  background-color: #438BC9;
+  padding: 30px;
+  height: 200px;
 }
