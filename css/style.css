@@ -1,0 +1,14 @@
+.title {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.tile {
+  padding: 20px;
+  text-align: center;
+}
+
+.tile img{
+  height: 200px;
+}

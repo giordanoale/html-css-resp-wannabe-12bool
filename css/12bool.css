@@ -31,6 +31,11 @@
   clear: both;
 }
 
+/* Colonne */
+ [class*="col-"] {
+   float: left;
+ }
+
 /* responsive */
 
 /* 0 < 767px Smartphone */
